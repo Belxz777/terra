@@ -1,0 +1,3 @@
+Server: chuchuk
+Env: startup
+Port: 9000
